@@ -12,3 +12,9 @@ greater()
 newGreater()
 
 greaterSomeone(name_1)
+
+pets = ['dog','cat','bird','rabit',]
+
+for pet in pets:
+    print(pet)
+
