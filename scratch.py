@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def greater():
     print('hello')
 
@@ -14,24 +13,11 @@ newGreater()
 
 greaterSomeone(name_1)
 
-pets = ['dog','cat','bird','rabit',]
+pets = ['dog','cat','bird','rabit','snake']
 
 for pet in pets:
     print(pet)
 
-=======
-def greater():
-    print('hello')
+head_1 = 'something new'
+print(head_1)
 
-def newGreater():
-    print('hello, again')
-
-def greaterSomeone(name):
-    print('hello,'+ name)
-
-name_1 = 'Lion'
-greater()
-newGreater()
-
-greaterSomeone(name_1)
->>>>>>> ab6be36b3b694e693549c73327768e44029f7448
