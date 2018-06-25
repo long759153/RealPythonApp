@@ -18,6 +18,6 @@ pets = ['dog','cat','bird','rabit','snake']
 for pet in pets:
     print(pet)
 
-head_1 = 'something new was cheanged in Geany'
+head_1 = 'something new'
 print(head_1)
 
